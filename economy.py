@@ -8,6 +8,7 @@ current_station = a
 for i in range(len(price)):
     for j in range(len(price[i])):
         print(j)
+
 for i in range(n):
     if i not in [a, b]:
         cur_a_i = max(a, i) - 1
